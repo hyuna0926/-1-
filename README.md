@@ -1,7 +1,7 @@
 # 서울시 1인가구가 살기 좋은 동네 찾기
 - 기간: 2023.01.02~01.16
-- 언어: Python
-- Project manage: Tableau
+- 언어: **Python**
+- Project manage: **Tableau**
 
 ### 프로젝트 개요
 
